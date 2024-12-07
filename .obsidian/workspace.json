@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95af20d0aa990e67",
+        "id": "6caa0a546f8f9d25",
         "type": "tabs",
         "children": [
           {
-            "id": "c4dcbf08e28b0186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix Permissions/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8647e39720a3fabb",
+            "id": "242b084be5d1cea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Group Interests & Presentations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,18 +159,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8647e39720a3fabb",
+  "active": "242b084be5d1cea8",
   "lastOpenFiles": [
+    "README.md",
+    "Unix/README.md",
     "Unix/Unix Permissions/README.md",
     "Group Interests & Presentations.md",
     "Unix/Untitled.md",
-    "Unix/README.md",
     "Unix/Unix Permissions",
     "Nginx/README.md",
-    "README.md",
     "Perl/README.md",
     "Nginx",
     "Bash/README.md",

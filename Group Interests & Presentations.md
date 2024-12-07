@@ -3,12 +3,16 @@ How often to meet?
 * once a month
 
 Meet over zoom or in person?
+* In Person 
+* but we will provide a zoom link too
 
 What time to meet?
 * Thursdays at 5:00pm
 
 How long to meet?
-* I suggest 1/2 hour to present and 1/2 hour or less to try it out.
+* Less than one hour in total
+	* Presentation no more than 45 min
+	* at least 15 minutes to try it out
 
 
 
@@ -28,6 +32,7 @@ How long to meet?
 
 ## Presentation Schedule:
 
-| Presentation     | Date |
-| ---------------- | ---- |
-| Unix Permissions |      |
+| Presentation     | Date    | Presenter |
+| ---------------- | ------- | --------- |
+| Unix Permissions | Jan 9th | Marty     |
+|                  |         |           |
