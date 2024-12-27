@@ -5,7 +5,7 @@ Key points about Unix permissions:
 - **Three user groups:**
     
     Each file has three access levels: 
-	* Owner:   the file **`owner`** - owners/users are defined in [/etc/passwd] 
+	* Owner:   the file **`owner`** - owners/users are defined in [/etc/passwd](Unix%20Users) 
     * Group:   the **`group`** the file belongs to, groups are defined in [/etc/group](Unix%20groups)
     * Other:  **`"others"`** (everyone else). 
     
@@ -28,7 +28,9 @@ Key points about Unix permissions:
     The `chmod` command is used to modify file permissions.
     
 
-Google Search:  **"why are Unix permissions better than windows permissions"**
+
+
+**Why are Unix permissions better than windows permissions**
 
 Unix permissions are often considered better than Windows permissions because ==they offer a more granular and robust system for controlling file access==, with a clear hierarchy of user, group, and "other" permissions, allowing for precise control over who can read, write, and execute files, while Windows permissions can be more complex and often rely on broader "Everyone" group access by default, potentially leading to less secure configurations.
 
