@@ -1,1 +1,34 @@
-A short description of Unix Permissions
+Unix permissions are ==a system that controls who can access a file or directory on a Unix-based system==, allowing specific users (the file **`owner`**, **`group`** members, and **`everyone else`**) to perform actions like reading, writing, or executing based on assigned permissions, which are typically categorized as **"read,"** **"write,"** and **"execute"** for each user group. 
+
+Key points about Unix permissions:
+
+- **Three user groups:**
+    
+    Each file has three access levels: 
+	* Owner:   the file **`owner`** - owners/users are defined in [/etc/passwd] 
+    * Group:   the **`group`** the file belongs to, groups are defined in [/etc/group](Unix%20groups)
+    * Other:  **`"others"`** (everyone else). 
+    
+- **Three permissions for files**
+    
+    Within each user group, you can set 
+    * ***"read,"**   -- View the file contents
+    * **"write,"**   -- Modify the file
+    * **"execute"** -- Allow to run as a program
+    
+- **The three permissions as they related to Directory access:**
+    
+    When applied to directories:
+	 "read"       --  lets you list files within the directory, 
+     "write"      -- allows you to create, delete, or rename files, and 
+     "execute"  -- grants access to enter the directory. 
+    
+- **Controlling permissions:**
+    
+    The `chmod` command is used to modify file permissions.
+    
+
+Google Search:  **"why are Unix permissions better than windows permissions"**
+
+Unix permissions are often considered better than Windows permissions because ==they offer a more granular and robust system for controlling file access==, with a clear hierarchy of user, group, and "other" permissions, allowing for precise control over who can read, write, and execute files, while Windows permissions can be more complex and often rely on broader "Everyone" group access by default, potentially leading to less secure configurations.
+
