@@ -6,32 +6,42 @@
       {
         "id": "6caa0a546f8f9d25",
         "type": "tabs",
+        "dimension": 78.5878300803674,
         "children": [
-          {
-            "id": "242b084be5d1cea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix Permissions/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
           {
             "id": "2aeb887b6901bfdb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md"
+                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-26 17.51.00.excalidraw"
-            }
+              "icon": "lucide-file",
+              "title": "How are scripts run in Unix"
+            },
+            "group": "9da0fcdf39249bbd"
+          }
+        ]
+      },
+      {
+        "id": "b4ebe0dafbed3ee6",
+        "type": "tabs",
+        "dimension": 21.412169919632607,
+        "children": [
+          {
+            "id": "92486da0b35e8b04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How are scripts run in Unix"
+            },
+            "group": "9da0fcdf39249bbd"
           }
         ]
       }
@@ -178,18 +188,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "242b084be5d1cea8",
+  "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
+    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Unix/README.md",
-    "Unix/Unix Permissions/README.md",
-    "Unix/Unix Permissions/Unix groups.md",
     "Unix/Unix Permissions/Unix Users.md",
+    "Unix/Unix Permissions/Unix groups.md",
+    "Unix/Unix Permissions/Unix chmod command.md",
+    "Unix/Unix Permissions/README.md",
+    "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
+    "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
+    "Unix/Unix Permissions/Diagrams",
+    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
+    "README.md",
     "Group Interests & Presentations.md",
     "Unix.md",
     "[[.md",
-    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
     "Excalidraw",
-    "README.md",
     "Unix/Untitled.md",
     "Unix/Unix Permissions",
     "Nginx/README.md",
