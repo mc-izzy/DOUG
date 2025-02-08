@@ -52,6 +52,6 @@ chmod 755 testing.pl
 ./testing.pl: line 1: print: command not found
 ```
 
-Why did we get an error?  Can you explain why?
-How can we fix it?
+## Why did we get an error?  Can you explain why?
+## How can we fix it?
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
+                "file": "Unix/Unix Permissions/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How are scripts run in Unix"
+              "title": "README"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -36,10 +36,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md"
+                "file": "Unix/Unix Permissions/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of How are scripts run in Unix"
+              "title": "Outline of README"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -161,18 +161,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Unix/Unix Permissions/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "89b69663522af0f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,18 +200,19 @@
   },
   "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
-    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Unix/README.md",
+    "Unix/Unix Permissions/README.md",
+    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/Unix Users.md",
     "Unix/Unix Permissions/Unix groups.md",
     "Unix/Unix Permissions/Unix chmod command.md",
-    "Unix/Unix Permissions/README.md",
+    "Unix/Unix Permissions/Special permissions explained.md",
     "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
     "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
-    "Unix/Unix Permissions/Diagrams",
+    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
+    "Unix/Unix Permissions/Diagrams",
     "README.md",
-    "Group Interests & Presentations.md",
     "Unix.md",
     "[[.md",
     "Excalidraw",

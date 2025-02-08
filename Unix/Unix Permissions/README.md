@@ -33,4 +33,4 @@ Unix permissions are often considered better than Windows permissions because =
  ![[Controlling Unix Permissions]]
 
 
-
+![[Special permissions explained]]
