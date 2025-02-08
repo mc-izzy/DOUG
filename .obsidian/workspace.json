@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix Permissions/README.md",
+                "file": "Unix/Unix Permissions/Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Quiz"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -36,10 +36,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README.md"
+                "file": "Unix/Unix Permissions/Quiz.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Quiz"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README.md"
+                "file": "Unix/Unix Permissions/Quiz.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Quiz"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
-    "Unix/README.md",
     "Unix/Unix Permissions/README.md",
+    "Unix/README.md",
+    "Unix/Unix Permissions/Quiz.md",
     "Group Interests & Presentations.md",
     "Unix/Unix Permissions/Unix Users.md",
     "Unix/Unix Permissions/Unix groups.md",
