@@ -5,8 +5,8 @@ Unix permissions are ==a system that controls who can access a file or director
 
 ## Three access levels
 * Each file/directory has three access levels
-	* Owner:   the file **`owner`** - owners/users are defined in [/etc/passwd](Unix%20Users) 
-    * Group:   the **`group`** the file belongs to, groups are defined in [/etc/group](Unix%20groups)
+	* Owner:   the file **`owner`** - owners/users are defined in [/etc/passwd](Unix%20Users.md) 
+    * Group:   the **`group`** the file belongs to, groups are defined in [/etc/group](Unix%20groups.md)
     * Other:  **`"others"`** (everyone else). 
 ## Three permissions for `files`
 * Within each user group, you can set 
@@ -39,6 +39,7 @@ Unix permissions are often considered better than Windows permissions because =
 ## Umask Explained
 ![[umask explained]]
 
+# Now you try the example above
 
 
 

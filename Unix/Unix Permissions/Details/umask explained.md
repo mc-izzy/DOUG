@@ -14,6 +14,13 @@ To understand with which permissions files and directories are made when _umask
 
 ### Example: use default umask to create a file and directory
 ```
+# First see what the umask is set to
+> umask
+0022
+
+> mkdir umask_examples
+> cd umask_examples
+
 > touch test0.txt
 > ls -al 
 -rw-r--r-- 1 martyi martyi    0 Feb 12 08:37 test0.txt
@@ -29,6 +36,7 @@ drwxr-xr-x 2 martyi martyi 4096 Feb 12 08:38 dir0
 - New files: 666 – 066 = 600
 - New directories: 777 – 066 = 711
 ```
+# Change the default umask to 0066 first
 > umask 0066
 > touch test1.txt
 
@@ -49,6 +57,7 @@ drwx--x--x 2 martyi martyi 4096 Feb 12 08:39 dir1
 - New files: 666 – 022 = 644
 - New directories: 777 – 022 = 755
 ```
+# Change the umask back to 0022 first
 > umask 0022
 > touch test2.txt
 
