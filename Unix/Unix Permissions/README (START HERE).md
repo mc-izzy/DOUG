@@ -39,7 +39,7 @@ Unix permissions are often considered better than Windows permissions because =
 ## Umask Explained
 ![[umask explained]]
 
-# Now you try the example above
+## --> Now you try the example above
 
 
 
