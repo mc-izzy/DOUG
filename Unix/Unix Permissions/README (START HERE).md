@@ -32,5 +32,22 @@ Unix permissions are often considered better than Windows permissions because =
 
  ![[Controlling Unix Permissions]]
 
+# Now try  [[Quiz 1]]
+
+
+
+## Umask Explained
+![[umask explained]]
+
+
+
+
+# Special permissions explained (SUID, GUID, Sticky bit)
 
 ![[Special permissions explained]]
+
+
+## Now try [[Quiz 2]]
+
+
+
