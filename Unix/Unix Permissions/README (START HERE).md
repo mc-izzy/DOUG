@@ -43,7 +43,7 @@ Unix permissions are often considered better than Windows permissions because =
 
 
 
-# Special permissions explained (SUID, GUID, Sticky bit)
+# Special permissions explained (SUID, SGID, Sticky bit)
 
 ![[Special permissions explained]]
 

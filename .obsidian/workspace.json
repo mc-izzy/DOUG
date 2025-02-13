@@ -36,10 +36,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Unix/Unix Permissions/README (START HERE).md"
               },
               "icon": "lucide-list",
               "title": "Outline of README (START HERE)"
@@ -65,8 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -198,17 +194,18 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
-    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
+    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/README (START HERE).md",
+    "Unix/Unix Permissions/Quizzes/Quiz 1.md",
+    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
     "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
     "README.md",
-    "Group Interests & Presentations.md",
-    "Unix/Unix Permissions/Quizzes/Quiz 1.md",
     "Unix/Unix Permissions/Details/Unix groups.md",
     "Unix/Unix Permissions/Details/Unix Users.md",
     "Unix/README.md",
