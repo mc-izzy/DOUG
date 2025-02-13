@@ -180,9 +180,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "73a6de51e9cffd88",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,13 +208,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
     "Unix/Unix Permissions/README (START HERE).md",
+    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
     "Unix/Unix Permissions/Quizzes/Quiz 2.md",
     "README.md",
     "Group Interests & Presentations.md",
