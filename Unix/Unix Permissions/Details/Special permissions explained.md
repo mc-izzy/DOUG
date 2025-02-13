@@ -13,7 +13,10 @@ Now, to see this in a practical light, let's look at the `/usr/bin/passwd` com
 -rwsr-xr-x. 1 root root 33544 Dec 13  2019 /usr/bin/passwd
 ```
 
-Note the **s** where **x** would usually indicate execute permissions for the user.
+Note:  the **s** where **x** would usually indicate execute permissions for the user.
+
+Note:  setting the suid bit on a script does not work for elevating permissions.   Only compiled executables.
+
 
 ## group + s (pecial)
 
