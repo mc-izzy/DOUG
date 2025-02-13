@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md",
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README (START HERE)"
+              "title": "Special permissions explained"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -36,10 +36,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md"
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README (START HERE)"
+              "title": "Outline of Special permissions explained"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md"
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README (START HERE)"
+              "title": "Outline of Special permissions explained"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "2aeb887b6901bfdb",
   "lastOpenFiles": [
-    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/README (START HERE).md",
+    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/Quizzes/Quiz 1.md",
     "Unix/Unix Permissions/Quizzes/Quiz 2.md",
     "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
