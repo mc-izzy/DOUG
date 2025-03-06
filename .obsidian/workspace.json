@@ -14,16 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md",
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README (START HERE)"
+              "title": "Special permissions explained"
             },
             "group": "9da0fcdf39249bbd"
+          },
+          {
+            "id": "65fe509637ce229c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How are scripts run in Unix"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b4ebe0dafbed3ee6",
@@ -36,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md",
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README (START HERE)"
+              "title": "Outline of Special permissions explained"
             },
             "group": "9da0fcdf39249bbd"
           }
@@ -165,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/README (START HERE).md"
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README (START HERE)"
+              "title": "Outline of Special permissions explained"
             }
           },
           {
@@ -180,19 +195,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "73a6de51e9cffd88",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,16 +217,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2aeb887b6901bfdb",
+  "active": "65fe509637ce229c",
   "lastOpenFiles": [
-    "Group Interests & Presentations.md",
+    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Unix/Unix Permissions/README (START HERE).md",
-    "Perl/README.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
-    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
-    "README.md",
+    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/Quizzes/Quiz 1.md",
+    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
+    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
+    "README.md",
     "Unix/Unix Permissions/Details/Unix groups.md",
     "Unix/Unix Permissions/Details/Unix Users.md",
     "Unix/README.md",
@@ -233,7 +237,6 @@
     "Unix/Unix Permissions/Quizzes",
     "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
     "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
-    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Unix/Unix Permissions/Diagrams",
     "Unix.md",
     "[[.md",
@@ -241,6 +244,7 @@
     "Unix/Untitled.md",
     "Unix/Unix Permissions",
     "Nginx/README.md",
+    "Perl/README.md",
     "Nginx",
     "Bash/README.md",
     "Perl",
