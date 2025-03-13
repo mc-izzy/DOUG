@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6caa0a546f8f9d25",
+        "id": "e7b7236e6694f7bf",
         "type": "tabs",
-        "dimension": 78.5878300803674,
         "children": [
           {
-            "id": "2aeb887b6901bfdb",
+            "id": "5c83d2e766cf6cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix Permissions/Details/Special permissions explained.md",
+                "file": "Bash/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special permissions explained"
-            },
-            "group": "9da0fcdf39249bbd"
-          },
-          {
-            "id": "65fe509637ce229c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How are scripts run in Unix"
+              "title": "README"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b4ebe0dafbed3ee6",
-        "type": "tabs",
-        "dimension": 21.412169919632607,
-        "children": [
-          {
-            "id": "92486da0b35e8b04",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Unix/Unix Permissions/Details/Special permissions explained.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Special permissions explained"
-            },
-            "group": "9da0fcdf39249bbd"
           }
         ]
       }
@@ -201,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,15 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65fe509637ce229c",
+  "active": "5c83d2e766cf6cbe",
   "lastOpenFiles": [
+    "Bash/inverse-batman-logo.jpg",
+    "README.md",
+    "Group Interests & Presentations.md",
+    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
+    "Nginx/README.md",
+    "Bash/README.md",
+    "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
     "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
     "Unix/Unix Permissions/README (START HERE).md",
-    "Group Interests & Presentations.md",
     "Unix/Unix Permissions/Quizzes/Quiz 1.md",
     "Unix/Unix Permissions/Quizzes/Quiz 2.md",
-    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
-    "README.md",
     "Unix/Unix Permissions/Details/Unix groups.md",
     "Unix/Unix Permissions/Details/Unix Users.md",
     "Unix/README.md",
@@ -235,7 +200,6 @@
     "Unix/Unix Permissions/Details/Unix chmod command.md",
     "Unix/Unix Permissions/Details/Special permissions explained.md",
     "Unix/Unix Permissions/Quizzes",
-    "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
     "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
     "Unix/Unix Permissions/Diagrams",
     "Unix.md",
@@ -243,10 +207,8 @@
     "Excalidraw",
     "Unix/Untitled.md",
     "Unix/Unix Permissions",
-    "Nginx/README.md",
     "Perl/README.md",
     "Nginx",
-    "Bash/README.md",
     "Perl",
     "Bash",
     "Unix"
