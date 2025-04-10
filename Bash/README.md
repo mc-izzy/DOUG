@@ -5,7 +5,7 @@
 
 # Bourne Again Shell
 - bash manual [https://www.gnu.org/software/bash/manual/bash.html]
-- Types are for the weak. All things are string.
+- Types are for the weak. All things are string. Also, there is no special syntax required to indicate a string literal.
 - Every statement is first assumed to be a 'command' and strings don't need quotes.
     - This has major implications and causes much of the weirdness of bash
     - Why must all variable references be preceded by a `$` ?
@@ -37,7 +37,7 @@ done
 ## Control Flow
 
 ```bash
-if \<command>|\<test> ; then
+if <command>|<test> ; then
 ....
 fi
 ```
@@ -89,8 +89,9 @@ cat grep foo ./file-that-doesnt-have-foo && echo 'unreachable'
 
 ## Test command
 - \[ is a special command in bash
+- `whereis \[` and `man \[`
 - bash has extended test syntax with \[\[ ... ]]
-- see: [https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html]
+- see: (https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html)
 ## Special Variables
 
 Bash provides several **special variables** that are commonly used in shell scripts.
@@ -161,8 +162,13 @@ Bash provides several **special variables** that are commonly used in shell scri
 ### Subshells and Pipes
 
 - $(command) - run command and inline its return value
-    - e.x. vimf
-## Spawning and manging background jobs
+    - e.x. alias vimf='nvim $(fzf)'
+    - this scipt opens nvim even when fzf finds nothing. 
+<details>
+<summary>fix</summary>
+<code>selection=$(fzf) && nvim $selection</code>
+</details>
+## Spawning and managing background jobs
 - jobs, fg, bg, kill, &
 - try `eslint &` to start eslint as a background task
 
@@ -248,3 +254,48 @@ function fzfh() {
 }
 
 ```
+```bash
+PS3="Please select an option: "
+options=("Option 1" "Option 2" "Option 3" "Option 4" "Quit")
+
+select opt in "${options[@]}"; do
+  case $opt in
+    "Option 1")
+      echo "You chose Option 1"
+      ;;
+    "Option 2")
+      echo "You chose Option 2"
+      ;;
+    "Option 3")
+      echo "You chose Option 3"
+      ;;
+    "Option 4")
+      echo "You chose Option 4"
+      ;;
+    "Quit")
+      echo "Exiting..."
+      break
+      ;;
+    *)
+      echo "Invalid option, please try again."
+      ;;
+  esac
+done
+
+```
+### Comfy terminal / shell usage
+- \<ctrl-u> delete all characters on line before cursor
+- \<ctrl-l> clear terminal screen
+- \<ctrl-a> go to beginning of line
+- \<ctrl-e> got to end of line
+- \<alt-backspace> delete word
+- \<alt-b> go back one word
+- \<alt-f> go forward one word
+- \<c-d> send 'done' signal e.x. in repl's
+
+## Additional notes
+- export you variables to make accessible to child shells
+- single vs double quotes
+- grep, sed, and awk stuff
+- whereis
+- Command line tools are cool.
