@@ -32,7 +32,8 @@ How long to meet?
 
 ## Presentation Schedule:
 
-| Presentation     | Date    | Presenter |
-| ---------------- | ------- | --------- |
-| Unix Permissions | Jan 9th | Marty     |
-|                  |         |           |
+| Presentation     | Date            | Presenter |
+| ---------------- | --------------- | --------- |
+| Unix Permissions | Jan 9th 2025    | Marty     |
+| Bash Scripting   | April 10th 2025 | Jacob     |
+|                  |                 |           |
