@@ -1,10 +1,11 @@
 <img src="./inverse-batman-logo.jpg" alt="Inverse Batman Logo" width=400 />
+
 > "\[Batman is] the hero Gotham deserves, but not the one it needs right now" -Jim Gordon
 
 > "Bash is not the scripting language you deserve, but it's the one you get." -Jacob Thompson
 
 # Bourne Again Shell
-- bash manual [https://www.gnu.org/software/bash/manual/bash.html]
+- bash manual (https://www.gnu.org/software/bash/manual/bash.html)
 - Types are for the weak. All things are string. Also, there is no special syntax required to indicate a string literal.
 - Every statement is first assumed to be a 'command' and strings don't need quotes.
     - This has major implications and causes much of the weirdness of bash
@@ -84,7 +85,7 @@ for i in $(seq 5); do echo $i; done
 - \<command> \[\<args>] && \<command2> \[...]
 	- do command 1 then once it is done, if the status code is 0, run command 2 
 ```bash
-cat grep foo ./file-that-doesnt-have-foo && echo 'unreachable'
+grep foo ./file-that-doesnt-have-foo && echo 'unreachable'
 ```
 
 ## Test command

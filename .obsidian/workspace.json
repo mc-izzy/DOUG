@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Bash/README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c740aaf8eaac142a",
