@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "9e69aaad6a61e260",
+    "id": "2cc4f6d9c461ec7e",
     "type": "split",
     "children": [
       {
-        "id": "e7b7236e6694f7bf",
+        "id": "045eb8fb6c6b2fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "5c83d2e766cf6cbe",
+            "id": "5845a5918ed2e956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3858754b556f9ba4",
+    "id": "52a7ce9674d982d6",
     "type": "split",
     "children": [
       {
-        "id": "622812390309e4e7",
+        "id": "01022210d6013f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2efd5adbca0a84",
+            "id": "71fa56da63d00205",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "5aa1bb24ef447e96",
+            "id": "8ef5ed30774573ea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "9feb437492af35b6",
+            "id": "b6515510b26a651b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "c740aaf8eaac142a",
+    "id": "204b06b3595b34d4",
     "type": "split",
     "children": [
       {
-        "id": "c5f0aadcb9d70831",
+        "id": "a64d7d84411601a8",
         "type": "tabs",
         "children": [
           {
-            "id": "946f2483706e1d92",
+            "id": "2c40be58ad603482",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,64 +99,56 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "3b982654fd5ddab7",
+            "id": "e60f629a588b79f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4a8e62ce1d2675e2",
+            "id": "f7a737a6d92161fd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "bd17509ac3998ea7",
+            "id": "a96ac72c577ce01c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix Permissions/Details/Special permissions explained.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Special permissions explained"
-            }
-          },
-          {
-            "id": "89b69663522af0f1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,39 +165,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c83d2e766cf6cbe",
-  "lastOpenFiles": [
-    "Bash/inverse-batman-logo.jpg",
-    "README.md",
-    "Group Interests & Presentations.md",
-    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
-    "Nginx/README.md",
-    "Bash/README.md",
-    "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
-    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
-    "Unix/Unix Permissions/README (START HERE).md",
-    "Unix/Unix Permissions/Quizzes/Quiz 1.md",
-    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
-    "Unix/Unix Permissions/Details/Unix groups.md",
-    "Unix/Unix Permissions/Details/Unix Users.md",
-    "Unix/README.md",
-    "Unix/Unix Permissions/Details",
-    "Unix/Unix Permissions/Untitled.md",
-    "Unix/Unix Permissions/Details/umask explained.md",
-    "Unix/Unix Permissions/Details/Unix chmod command.md",
-    "Unix/Unix Permissions/Details/Special permissions explained.md",
-    "Unix/Unix Permissions/Quizzes",
-    "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
-    "Unix/Unix Permissions/Diagrams",
-    "Unix.md",
-    "[[.md",
-    "Excalidraw",
-    "Unix/Untitled.md",
-    "Unix/Unix Permissions",
-    "Perl/README.md",
-    "Nginx",
-    "Perl",
-    "Bash",
-    "Unix"
-  ]
+  "active": "5845a5918ed2e956",
+  "lastOpenFiles": []
 }
