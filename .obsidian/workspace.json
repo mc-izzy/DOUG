@@ -1,21 +1,76 @@
 {
   "main": {
-    "id": "2cc4f6d9c461ec7e",
+    "id": "9e69aaad6a61e260",
     "type": "split",
     "children": [
       {
-        "id": "045eb8fb6c6b2fbe",
+        "id": "6caa0a546f8f9d25",
         "type": "tabs",
+        "dimension": 78.5878300803674,
         "children": [
           {
-            "id": "5845a5918ed2e956",
+            "id": "2aeb887b6901bfdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Perl/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
+            },
+            "group": "9da0fcdf39249bbd"
+          },
+          {
+            "id": "65fe509637ce229c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-26 17.51.00.excalidraw"
             }
+          },
+          {
+            "id": "9305728fa42f76c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Unix Permissions/Details/umask explained.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "umask explained"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4ebe0dafbed3ee6",
+        "type": "tabs",
+        "dimension": 21.412169919632607,
+        "children": [
+          {
+            "id": "92486da0b35e8b04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Perl/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            },
+            "group": "9da0fcdf39249bbd"
           }
         ]
       }
@@ -23,15 +78,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "52a7ce9674d982d6",
+    "id": "3858754b556f9ba4",
     "type": "split",
     "children": [
       {
-        "id": "01022210d6013f7a",
+        "id": "622812390309e4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "71fa56da63d00205",
+            "id": "8a2efd5adbca0a84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +99,7 @@
             }
           },
           {
-            "id": "8ef5ed30774573ea",
+            "id": "5aa1bb24ef447e96",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +116,7 @@
             }
           },
           {
-            "id": "b6515510b26a651b",
+            "id": "9feb437492af35b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +132,20 @@
     "width": 300
   },
   "right": {
-    "id": "204b06b3595b34d4",
+    "id": "c740aaf8eaac142a",
     "type": "split",
     "children": [
       {
-        "id": "a64d7d84411601a8",
+        "id": "c5f0aadcb9d70831",
         "type": "tabs",
         "children": [
           {
-            "id": "2c40be58ad603482",
+            "id": "946f2483706e1d92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,57 +155,64 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "e60f629a588b79f5",
+            "id": "3b982654fd5ddab7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "f7a737a6d92161fd",
+            "id": "4a8e62ce1d2675e2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "a96ac72c577ce01c",
+            "id": "bd17509ac3998ea7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Unix/Unix Permissions/Details/Special permissions explained.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Special permissions explained"
+            }
+          },
+          {
+            "id": "89b69663522af0f1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +228,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5845a5918ed2e956",
-  "lastOpenFiles": []
+  "active": "2aeb887b6901bfdb",
+  "lastOpenFiles": [
+    "Group Interests & Presentations.md",
+    "Unix/Unix Permissions/Details/Special permissions explained.md",
+    "Unix/Unix Permissions/Details/umask explained.md",
+    "Unix/Unix Permissions/Details/Unix Users.md",
+    "Unix/Unix Permissions/Details/Unix groups.md",
+    "Unix/Unix Permissions/Details/Unix chmod command.md",
+    "Unix/Unix Permissions/Quizzes/Quiz 2.md",
+    "Unix/Unix Permissions/Quizzes/Quiz 1.md",
+    "Unix/Unix Permissions/README (START HERE).md",
+    "Excalidraw/Drawing 2024-12-26 17.51.00.excalidraw.md",
+    "Bash/README.md",
+    "Bash/inverse-batman-logo.jpg",
+    "README.md",
+    "Unix/Unix Permissions/Diagrams/How are scripts run in Unix.md",
+    "Unix/Unix Permissions/Diagrams/Controlling Unix Permissions.md",
+    "Unix/README.md",
+    "Unix/Unix Permissions/Details",
+    "Unix/Unix Permissions/Untitled.md",
+    "Unix/Unix Permissions/Quizzes",
+    "Unix/Unix Permissions/Diagrams/Unix Permissions Drawing.png",
+    "Unix/Unix Permissions/Diagrams",
+    "Unix.md",
+    "[[.md",
+    "Excalidraw",
+    "Unix/Untitled.md",
+    "Unix/Unix Permissions",
+    "Nginx/README.md",
+    "Perl/README.md",
+    "Nginx",
+    "Perl",
+    "Bash",
+    "Unix"
+  ]
 }
